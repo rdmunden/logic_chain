@@ -131,3 +131,5 @@ dmypy.json
 # IDE
 .idea
 
+# Desktop
+.DS_Store
